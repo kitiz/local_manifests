@@ -8,11 +8,12 @@
   <project name="AICP/device_motorola_clark" path="device/motorola/clark" remote="github" revision="mm6.0" />
   <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-13.0" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
+  <project name="AICP/proprietary_vendor_motorola" path="proprietary/vendor/motorola" remote="github" revision="mm6.0"
 
  <!--Samsung Note II / N7100 sources-->
   <project name="CyanogenMod/android_device_samsung_n7100" path="device/samsung/n7100" remote="github" revision="cm-12.1" />
   <remove-project name="CyanogenMod/android_device_samsung_n7100" />
-  <project name="Trafalgar-Square/android_device_samsung_n7100" path="device/samsung/n7100" remote="github" revision="cm-13.0" />
+  <project name="Trafalgar-Square/android_device_samsung_n7100" path="device/samsung/n7100" remote="github" revision="ts" />
   <project name="CyanogenMod/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="cm-13.0" />
   <remove-project name="CyanogenMod/android_device_samsung_smdk4412-common" />
   <project name="Trafalgar-Square/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="cm-13.0" />
